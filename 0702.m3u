@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 ,TVB星河台
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,翡翠台
