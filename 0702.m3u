@@ -471,3 +471,19 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
 #EXTINF:-1 ,優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="7219" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="台灣", ELTA綜合 HD
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7201" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="台灣", ELTA影劇 HD
+http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7212" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="台灣", ELTA體育1台 4K
+rtmp://59.124.75.153/sat/md041
+
+#EXTINF:-1 tvg-id="7192" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="台灣", ELTA體育2台
+rtmp://59.124.75.153/sat/md051
+
+#EXTINF:-1 tvg-id="7213" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="台灣", ELTA體育3台
+rtmp://59.124.75.153/sat/md051
+
